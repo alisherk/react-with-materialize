@@ -23,11 +23,11 @@ class Parallax extends Component {
           <div className='row'>
             <div className='col s12 l5'>
               <h3 className='indigo-text text-darken-4'>
-               Services provided for you
+               Services for you
               </h3>
               <p>
-                Yo man I do lots of do majiga to keep yo entertained at all
-                times. Check this out yo
+              Cizzle socizzle mah nizzle penatibizzle et magnizzle fizzle parturient
+              shiz, nascetur ridiculus mus. Yo man my shizzle boyakasha dizzzle perizzle
               </p>
             </div>
             <div className='col s12 l6 offset-l1'>

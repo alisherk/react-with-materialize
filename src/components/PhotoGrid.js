@@ -51,7 +51,7 @@ class PhotoGrid extends Component {
         </div>
         <div className='row'>
           <div className='col s12 l4'>
-            <img src={House} alt='' className='responsive-img materialboxed' style={{width: '300px', height:'200px'}} />
+            <img src={House} alt='' className='responsive-img materialboxed' style={{width: '370px', height:'220px'}} />
           </div>
           <div className='col s12 l6'>
             <h3 className='indigo-text text-darken'> Nature </h3>
